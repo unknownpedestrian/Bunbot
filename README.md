@@ -1,7 +1,7 @@
 
 # Bunbot - Simple Shoutcast Bot!
 ----
-⚠️Please note that Bunbot will no longer receive updates. Future developments and improvements will be made to the version written in Python, which can be found here: [BunBot.py](https://github.com/CGillen/BunBotPython).⚠️
+⚠️Please note that Bunbot.js will no longer receive updates. Future developments and improvements will be made to the version written in Python, which can be found here: [BunBot.py](https://github.com/CGillen/BunBotPython).⚠️
 
 ---
 Bunbot is a Java-based bot designed to play Shoutcast v2 and some Icecast streams. It supports the following commands:
