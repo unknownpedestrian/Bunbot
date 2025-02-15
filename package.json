@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.7.9",
+    "discord.js": "^14.17.3",
+    "icy": "^2.1.0"
+  }
+}
