@@ -17,5 +17,5 @@ No problem!
 you can add the bot to your discord here! [click me!](https://discord.com/oauth2/authorize?client_id=1326598970885144637)
 
 
-(mainbot invite be the python version soon! thanks [CGillen](https://github.com/CGillen)!)
+(mainbot invite will be the python version soon! thanks [CGillen](https://github.com/CGillen)!)
 ---
